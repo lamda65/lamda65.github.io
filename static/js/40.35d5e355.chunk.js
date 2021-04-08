@@ -1,2 +1,1 @@
 (this["webpackJsonpmyhome-booking"]=this["webpackJsonpmyhome-booking"]||[]).push([[40],{921:function(n,t,e){"use strict";e.r(t),e.d(t,"routers",(function(){return c})),e.d(t,"default",(function(){return i}));var o=e(1),r=e(0),u=e(291),c=[{path:"/voucher",component:Object(r.lazy)((function(){return e.e(37).then(e.bind(null,912))}))}];function i(){return Object(o.jsx)(o.Fragment,{children:Object(u.a)(c)})}}}]);
-//# sourceMappingURL=40.35d5e355.chunk.js.map
